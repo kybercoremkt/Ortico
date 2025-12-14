@@ -1,0 +1,1 @@
+// Este archivo se ha vaciado ya que la lógica ha regresado a React (App.tsx y componentes).
